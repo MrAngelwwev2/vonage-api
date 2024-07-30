@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../../../src/application/contact-center/ports/text-chat.repository.ts"],"sourcesContent":["export abstract class TextChatRepository {\n    abstract find(): Promise<void>;\n    abstract save(): Promise<string>;\n}"],"names":["TextChatRepository"],"mappings":";;;;+BAAsBA;;;eAAAA;;;AAAf,IAAA,AAAeA,qBAAf,MAAeA;AAGtB"}
